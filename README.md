@@ -1,6 +1,6 @@
 # Windows11 RDP [Updated]
 
-#Free 1 hours Windows 11 RDP
+#Free 12 hours Windows 11 RDP
 
 <img src="https://i.imgur.com/1QZfKzC.png" width="500" />
 
